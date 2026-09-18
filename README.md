@@ -53,3 +53,10 @@ Need help with Git commands or fixing your Pull Request?
 ---
 
 *Made with passion by the Open Source Club maintainers & awesome student contributors.*
+
+New Edit -> Name: Gopesh Pandey
+            Roll No.: 26bcs10802
+
+            About: Excited and keen to learn and contribute !! 
+            I know Python till MySQL connector. C me arrays tak ata hai, aur abhi bhi C me age seekh raha hoon. 
+            and........GSoC FODD K RAHUNGA !!!
