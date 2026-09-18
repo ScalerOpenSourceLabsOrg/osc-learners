@@ -53,3 +53,8 @@ Need help with Git commands or fixing your Pull Request?
 ---
 
 *Made with passion by the Open Source Club maintainers & awesome student contributors.*
+Participants:-
+
+Name-Atharv Agarwal
+Roll no.10778
+Took todays session in uni-1
