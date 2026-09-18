@@ -55,10 +55,13 @@ Need help with Git commands or fixing your Pull Request?
 *Made with passion by the Open Source Club maintainers & awesome student contributors.*
 
 
-## ABOUT ME Number 
+## ABOUT ME : 
 Name: Neel_Vasthav 
 Roll NO: 26bcs10569 
-Achievements: Excelled in JEE,C++,SQL,py.
+Achievements: 1.Excelled in JEE,
+2.C++,
+3.SQL,
+4.py.
 
 
 
