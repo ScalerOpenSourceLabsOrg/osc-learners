@@ -53,3 +53,9 @@ Need help with Git commands or fixing your Pull Request?
 ---
 
 *Made with passion by the Open Source Club maintainers & awesome student contributors.*
+
+
+# Contribution:
+### Name: Raktimjyoti Sarma
+### Roll: 26bcs10303
+### Achievement: 98%ile in JEE Mains Math; Selected into TKS twice; Awarded 20% schalrship in Scaler
