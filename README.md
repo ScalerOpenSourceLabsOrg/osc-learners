@@ -53,3 +53,17 @@ Need help with Git commands or fixing your Pull Request?
 ---
 
 *Made with passion by the Open Source Club maintainers & awesome student contributors.*
+
+## My Details
+
+**Name:** Veda
+**Roll Number:** 26bcs10553
+
+**Achievements:**
+
+* Represented at the **National level 3 times** in Taek-Won-Do.
+* Represented at the **International level 2 times** in Yoga.
+* Won approximately **50 Gold Medals**.
+* Won approximately **80 Silver Medals**.
+* Won approximately **20 Bronze Medals**.
+* Overall, earned approximately **150 medals** across various competitions.
