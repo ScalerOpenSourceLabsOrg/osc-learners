@@ -53,3 +53,8 @@ Need help with Git commands or fixing your Pull Request?
 ---
 
 *Made with passion by the Open Source Club maintainers & awesome student contributors.*
+
+name - Ritvik Raj 
+roll number - 10723
+Manchester is red <33
+
