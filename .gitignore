@@ -1,0 +1,8 @@
+# Ignore assets/images directory
+assets/images/
+
+# Ignore OS & temporary files
+.DS_Store
+assets/.DS_Store
+*.lnk
+*.pdf
